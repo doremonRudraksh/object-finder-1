@@ -1,0 +1,35 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+.header{
+    width: 100%;
+    margin: 0px;
+    font-size: xx-large;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: white;
+}
+.input_style{
+    margin: 5px;
+    border-radius: 50px;
+    width: 25%;
+    color: whitesmoke;
+    background-color: black;
+    border: 4px dashed red;
+}
+.object_name_label{
+    font-weight: bold;
+    font-size: larger;
+    color: red;
+}
+canvas{
+    border-radius: 10px;
+    background-color: black;
+    box-shadow: 7px 7px 7px white;
+}
+p{
+    margin-bottom: 0px;
+    font-size: small;
+}
+
