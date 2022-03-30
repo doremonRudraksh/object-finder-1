@@ -27,6 +27,7 @@ canvas{
     border-radius: 10px;
     background-color: black;
     box-shadow: 7px 7px 7px white;
+    margin-top: 50px;
 }
 p{
     margin-bottom: 0px;
