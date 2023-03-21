@@ -1,5 +1,4 @@
 status_model = "";
-text_input = "";
 objects = [];
 
 function setup(){
